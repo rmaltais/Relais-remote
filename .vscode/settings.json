@@ -1,0 +1,5 @@
+{
+    "vscode-home-assistant.hostUrl": "http://hassio.local:8123",
+    "vscode-home-assistant.ignoreCertificates": true,
+    "vscode-home-assistant.longLivedAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlMGVhN2ZlNTM5OGU0ZTc2YTAzNDY2NGU4MGE5OTM1NSIsImlhdCI6MTU3NzM3NzM4NiwiZXhwIjoxODkyNzM3Mzg2fQ.QtVX9nrN3qwqZMK9zdwLlpnu5ylgzZD1C6avWrw00GM"
+}
